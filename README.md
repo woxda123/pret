@@ -1,6 +1,6 @@
-# Pretiosus Mafia
+# 
 
-Telegram-бот для игры в Мафию в групповых чатах.
+Telegram-бот для игры в  в групповых чатах.
 
 ## Установка
 pip install -r requirements.txt
